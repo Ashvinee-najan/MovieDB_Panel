@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.cards{
+margin: auto;
+    
+}
+
+
+
+.card{
+    height:190px;
+    width:23%;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 2ch;
+    border: 2px grey;
+}
+
